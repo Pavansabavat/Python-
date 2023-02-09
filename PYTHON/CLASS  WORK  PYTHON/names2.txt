@@ -1,0 +1,13 @@
+pavan: 10
+nikhil: 83
+ruchitha: 87
+reddy: 23
+murali: 26
+shetty: 66
+pranay: 49
+raju: 93
+naresh: 27
+narasimha: 90
+rocky: 76
+seeta: 8
+harshitha: 78
